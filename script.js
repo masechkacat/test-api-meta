@@ -15,7 +15,7 @@
      * @type {string}
      * @since 1.0.0
      */
-    const accessToken = 'IGQWRQVXpoZADU1eWVnZAXMyX2doVlNkUUh1NGprT0ZAzLW1INHQ0cXQ0cFRqQWRoTVdPSUlwTUcwNmZAZAOEcxOFByOGh4S2tWQ0VfR2JaSG5aX0FhbVJBY0NDWlB1TE5KUGExeW80RV9OemxqRUV4bVdwRU5DU1NITFkZD';  // Замените на ваш фактический токен доступа
+    const accessToken = 'IGQWRNX1NwdENHVmFqS0JzMlJiNWtrejFqNUNzVU4ybEpBQVh1OWhzUGhYUkVabGRWNEFreFJSU0I0ZAzVlSURIRUtCOEE2VWZAzM3VhejJLSmhmWHJkQ3NBY0ZALQ2Mzd0kyT2VSb1RJNU0tbFlWeFR4Umo2bTBCQ3MZD';  // Замените на ваш фактический токен доступа
 
     /**
      * Fetches images from Instagram API and displays them in a slider.
